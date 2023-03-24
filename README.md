@@ -77,7 +77,7 @@
 
 **Modulhandbuch**：培养方案，需要翻译认证（不用公证）。翻译的话可以自己翻译完在某宝公司花10块钱盖个章。需要附课程说明（ETH必备），在选课平台上有但是要每门课复制粘贴/手动翻译（有些翻译很垃圾）。
 
-**ETCS**：欧盟的学分系统。根据哥廷根大学出的一个学分换算说明，正常情况下 **1 THU学分=1.5 ETCS学分**。（但是化学系实验课学分普遍偏低）
+**ECTS**：欧盟的学分系统。根据哥廷根大学出的一个[学分换算表](https://www.uni-goettingen.de/de/document/download/9aeee1a3ed9f38dbb9e9ec7562d3b921.pdf/Creditumrechnungstabelle10-22.pdf)，正常情况下 **1 THU学分=1.5 ECTS学分**。（但是化学系实验课学分普遍偏低）
 
 **申请费**：一般不接受银联卡。如果学生不好申请Visa/Mastercard的信用卡的话可以在 [这里](https://cloud.bankofchina.com/sh/api/net/common/url/adr?id=kuajinggomastercard) 申请中行的Mastercard借记卡应急一下（需要挂靠自己的中行卡，因为这张卡不能存人民币）
 
