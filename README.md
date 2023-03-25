@@ -9,7 +9,7 @@
 - 大学前的各种毕业证尽量保存好。丢了去学校补办。
 - 录取花名册拿学生证去招办（有些学校在档案馆）开，招办在二校门西边小老虎那里，进门跟前台说要打印花名册（要带学生卡）。
 - 在读证明**务必看清年级**，大四秋季学期开学前那个暑假打印的会显示大三。
-- 成绩单在C楼一楼注册那里打印中文英文各一份，上楼找注册中心封袋贴标签即可。不用盖章（标签上有章，有的学校需要另盖章）。
+- 成绩单在 C 楼一楼注册那里打印中文英文各一份，上楼找注册中心封袋贴标签即可。不用盖章（标签上有章，有的学校需要另盖章）。
 - 高中毕业证公证最好至少两份（我第一次只开了一份，半年内可以补第二份）
 
 本人 10.3 邮寄材料（注意不能前台直接交，去前台被轰出来了，只有在楼下顺丰寄）
@@ -22,10 +22,10 @@
 面谈问了这些问题：
 
 1. 为什么想来德国。（注意不要说移民。比如可以说喜欢汽车）
-2. 课程A学了什么，讲一下主要内容。（列几个大点）
+2. 课程 A 学了什么，讲一下主要内容。（列几个大点）
 3. 印象最深的专业课，讲一下主要内容。
-4. 课程B（实验课）学了啥，举个例子。（提供纸笔可画图）
-5. 课程C学了啥。也是列几个大点。
+4. 课程 B（实验课）学了啥，举个例子。（提供纸笔可画图）
+5. 课程 C 学了啥。也是列几个大点。
 
 面谈全程约 20 min，记得礼貌问好+道别，毕竟是线下面试。
 
@@ -50,19 +50,21 @@
 
 ### 语言
 
-德国大多数专业是德语授课，国内能考的有 TestDaF 4x4 或者歌德 C1（ TUM 好像要 C2）。TestDaF是四个月一次需要注意时间，比如3月底那场申冬季学期刚刚好。
-部分学校及英授专业需要英语成绩，最高雅思6.5/托福90（托福具体数忘了反正不过100），不要求小分，**不能拼分或家考**。如果实在考不出来德语可以先用英授专业应个急，但是如果有工作或移民计划那德语是迟早要学的。
+德国大多数专业是德语授课，国内能考的有 TestDaF 4x4 或者歌德 C1（TUM 好像要 C2）。TestDaF是四个月一次需要注意时间，比如3月底那场申冬季学期刚刚好。
+部分学校及英授专业需要英语成绩，最高雅思 6.5/托福 90（托福具体数忘了反正不过 100），不要求小分，**不能拼分或家考**。如果实在考不出来德语可以先用英授专业应个急，但是如果有工作或移民计划那德语是迟早要学的。
 
-和化学比较沾边的英授项目（本人看过的）：
+和化学/材料比较沾边的英授项目（本人看过的，时间截止 23fall）：
 
 - TUM：
   - [Materials Science and Engineering, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/materials-science-and-engineering-master-of-science-msc)：除了雅思/托福，中国申请人还需要[GRE](https://www.tum.de/en/studies/application/application-info-portal/special-conditions-for-certain-countries/)（QR 157, AW 3.0）
   - [Quantum Science and Technology, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/quantum-science-technology-master-of-science-msc/)：有一个课表清单，需要在申请前满足匹配度，其中量子力学必修。清单的课有基础物理学、量子力学、固体物理、物理实验、微积分&线性代数、无机与分析化学等。
 - RWTH Aachen：
-  - [Materials Engineering (International Profile), M.Sc](https://www.rwth-aachen.de/cms/root/studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~omse/Materials-Engineering-M-Sc/)：课程偏重金属材料。注意的是对应的两个德授专业（材料科学，材料工程）在**申请时**需要提交**TestAS证书**，需要的尽量在大四前搞定（大陆只有大三及以下可以参加TestAS因为这个考试面向本科申请。实在没办法可以去香港或者国外考。）
+  - [Materials Engineering (International Profile), M.Sc](https://www.rwth-aachen.de/cms/root/studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~omse/Materials-Engineering-M-Sc/)：课程偏重金属材料。注意的是对应的两个德授专业（材料科学，材料工程）在**申请时**需要提交 **TestAS 证书**，需要的尽量在大四前搞定（大陆只有大三及以下可以参加 TestAS 因为这个考试面向本科申请。实在没办法可以去香港或者国外考。）
 - TU Darmstadt：
   - [Material Science, M.Sc](https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_183552.de.jsp)
 - Erasmus Mundus：欧盟的硕士项目，在欧盟的两个或更多学校完成为期两年的授课硕士项目。英语。有学费但是可以申奖学金（全奖巨多，差旅费安家费旅游费都有）。官网在 [这里](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en)。注意这个项目会考虑国别的 Diversity 所以录取可能比较玄学，以及申请需要**两封推荐信**（前几个都不要）。
+- TU Berlin: 
+  - [Polymer Science, M.Sc.](https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/polymer-science-m-sc): 注意这个是**受限专业**。
 
 ### 申请系统
 
@@ -76,7 +78,7 @@
 
 ### 其他Hint
 
-**Modulhandbuch**：一般等同于国内的培养方案+课程说明，需要翻译认证（不用公证）。翻译的话可以自己翻译完在某宝公司花10块钱盖个章。**需要附课程说明**，在选课平台上有但是要每门课复制粘贴/手动翻译（有些翻译很垃圾）。
+**Modulhandbuch**：一般等同于国内的培养方案+课程说明，需要翻译认证（不用公证）。翻译的话可以自己翻译完后在某宝找公司花10块钱盖个章。**需要附课程说明**，在选课平台上有但是要每门课复制粘贴/手动翻译（有些翻译很垃圾）。
 
 **ECTS**：欧盟的学分系统。哥廷根大学有一个学分换算表（pdf 放在文件夹里面了）。
 
