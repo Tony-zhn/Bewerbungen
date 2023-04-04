@@ -2,15 +2,15 @@
 
 ## APS
 
-审核部官网 [在此](https://www.aps.org.cn/zh/)。只要涉及到人在德国读**硕士及以下**（**包括 Erasmus 和马普所的部分分所**，比如有的分所不招直博要先读硕士）都要 APS，不然使领馆不给你发签证。正常申请硕士的话走“[一般国内申请人审核程序](https://www.aps.org.cn/zh/verfahren-und-services-deutschland/chinaverfahren)”。
+审核部官网 [在此](https://www.aps.org.cn/zh/)。只要涉及到人在德国读**硕士及以下**（**包括 Erasmus 和马普所的部分分所**，比如有的分所不招直博要先读硕士）都要 APS，不然使领馆不给你发签证。正常申请硕士的话走“[一般国内申请人审核程序](https://www.aps.org.cn/zh/verfahren-und-services-deutschland/chinaverfahren)”，要求六个学期的有效学分（**尽量不要挂科**，可能会影响学期数目的判定，虽然本人挂了一门概统还是给过了）。
 
-比较有(nan)趣(gao)的材料：小学&初中毕业证复印件、高中毕业证复印件+公证、录取花名册+公证、在读证明+公证（公证选英语或德语均可）
+对于没毕业的申请人，比较有(nan)趣(gao)的材料：小学&初中毕业证复印件、高中毕业证复印件+公证、录取花名册+公证、在读证明+公证（公证选英语或德语均可）
 
-- 大学前的各种毕业证尽量保存好。丢了得去学校补办。
+- 大学前的各种毕业证尽量保存好。丢了得回学校补办。
 - 录取花名册拿学生证去招办（有些学校在档案馆）开，招办在二校门西边小老虎那里，进门跟前台说要打印花名册（要带学生卡）。
 - 在读证明**务必看清年级**，大四秋季学期开学前那个暑假打印的会显示大三。
 - 成绩单在 C 楼一楼注册那里打印中文英文各一份，上楼找注册中心封袋贴标签即可。不用盖章（标签上有章，有的学校需要另盖章）。
-- 高中毕业证公证最好至少两份（我第一次只开了一份，半年内可以补第二份）
+- 各种公证书最好至少办两份（一般公证处半年内可以补第二份，按补办收费）
 
 本人 10.3 邮寄材料（注意不能前台直接交，去前台会被轰出来，只有在楼下顺丰寄）
 疫情期间预约面谈，我约的 1.17。正常情况下是排队。
@@ -57,13 +57,17 @@
 德国大多数专业是德语授课，国内能考的有 TestDaF 4x4 或者歌德 C1（TUM 好像要 C2）。TestDaF 是四个月一次需要注意时间，比如3月底那场申冬季学期刚刚好。
 部分学校及英授专业需要英语成绩，最高雅思 6.5/托福 92（托福具体数忘了反正不过 100），不要求小分，**不能拼分或家考**。如果实在考不出来德语可以先用英授专业应个急，但是如果有工作或移民计划那德语是迟早要学的，而且当地生活至少也需要 A1 水平的德语。
 
+可以在一些 [第三方系统](https://programs.studying-in-germany.org/master-degree/?language=english) 上查英授的硕士项目。
+
 ### 部分项目
+
+申请要求课程匹配度，所以主修专业跨度不能太大，否则只能本科重新读。
 
 和化学/材料比较沾边的英授项目（本人看过的，时间截止 23fall）：
 
 - TUM：
   - [Materials Science and Engineering, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/materials-science-and-engineering-master-of-science-msc)：除了雅思/托福，中国申请人还需要 [GRE](https://www.tum.de/en/studies/application/application-info-portal/special-conditions-for-certain-countries/)（QR 157, AW 3.0）。一堆数学课和材料模拟计算。
-  - [Quantum Science and Technology, M.Sc](https://www.ph.tum.de/academics/msc/qst/apply/?language=en)：申请时要填一个课表清单（excel 我扔文件夹里了），需要在申请前满足匹配度（57/120），其中量子力学必修。清单的课有基础物理学、量子力学、固体物理、物理实验、微积分&线性代数、无机与分析化学等。
+  - [Quantum Science and Technology, M.Sc](https://www.ph.tum.de/academics/msc/qst/apply/?language=en)：申请时要填一个课表清单（excel 我扔文件夹里了），需要在申请前满足匹配度（57/120 Credits），其中量子力学必修。清单的课有基础物理学、量子力学、固体物理、物理实验、微积分&线性代数、无机与分析化学等。
   - [Biochemistry, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/biochemistry-master-of-science-msc): 适合化学生物学方向的申请。
 - LMU:
   - [Biochemistry, M.Sc](https://www.genzentrum.uni-muenchen.de/study-program/master/index.html): 同上。
@@ -78,11 +82,9 @@
 - [Erasmus Mundus](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en)：
   - 欧盟的硕士项目，在欧盟的两个或更多学校完成为期两年的授课硕士项目。英语。有学费（比下面两个少）但是可以申奖学金（cover 差旅费安家费旅游费等等）。注意这个项目会考虑国别的 Diversity 所以录取可能比较玄学，以及申请需要**两封推荐信**（前几个不要）。
 - TU Delft（乱入）:
-  - [MSC Chemical Engineering](https://www.tudelft.nl/en/education/programmes/masters/chemical-engineering/msc-chemical-engineering/): 本来准备作备选的，结果一看，托福 100 且小分 22/雅思 7.0 且小分 6.5，学费 MSc 20560 €/年（2023/2024 学年），且荷兰工作大概率要学荷兰语，拒绝。不缺钱的可以考虑。ddl 在三月底。
+  - [MSC Chemical Engineering](https://www.tudelft.nl/en/education/programmes/masters/chemical-engineering/msc-chemical-engineering/): 本来准备作备选的，结果一看，托福 100 且小分 22/雅思 7.0 且小分 6.5，学费 MSc 20560 €/年（2023/2024 学年），且荷兰工作大概率要学荷兰语，拒绝。不缺钱的可以考虑。DDL 在三月底。
 - [ETH Zürich](https://ethz.ch/en.html) & [EPFL](https://www.epfl.ch/en/)（乱入x2）:
   - 瑞士的 top 级学校，其中 EPFL 可以申直博。ddl 与北美 PhD 类似在上一年的 12 月左右。瑞士的开销比德国大。**有移民需求不推荐瑞士**，纯做学术+找教职可以。
-
-可以在一些[第三方系统](https://programs.studying-in-germany.org/master-degree/?language=english)上查英授的硕士项目。
 
 ### 申请系统
 
