@@ -66,9 +66,10 @@
 和化学/材料比较沾边的英授项目（本人看过的，时间截止 23fall）：
 
 - TUM：
-  - [Materials Science and Engineering, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/materials-science-and-engineering-master-of-science-msc)：除了雅思/托福，中国申请人还需要 [GRE](https://www.tum.de/en/studies/application/application-info-portal/special-conditions-for-certain-countries/)（QR 157, AW 3.0）。一堆数学课和材料模拟计算。
+  - [Materials Science and Engineering, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/materials-science-and-engineering-master-of-science-msc)：除了雅思/托福，中国申请人还需要 [GRE](https://www.tum.de/en/studies/application/application-info-portal/special-conditions-for-certain-countries/)（QR 157, AW 3.0）。课表主要是一堆数学课和材料模拟计算。
   - [Quantum Science and Technology, M.Sc](https://www.ph.tum.de/academics/msc/qst/apply/?language=en)：申请时要填一个课表清单（excel 我扔文件夹里了），需要在申请前满足匹配度（57/120 Credits），其中量子力学必修。清单的课有基础物理学、量子力学、固体物理、物理实验、微积分&线性代数、无机与分析化学等。
   - [Biochemistry, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/biochemistry-master-of-science-msc): 适合化学生物学方向的申请。
+  - [Industrial Chemistry, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/industrial-chemistry-master-of-science-msc/): **在新加坡**，和 NUS 的合作项目。
 - LMU:
   - [Biochemistry, M.Sc](https://www.genzentrum.uni-muenchen.de/study-program/master/index.html): 同上。
 - RWTH Aachen：
@@ -80,7 +81,7 @@
 - [Max-Planck Institute](https://www.mpg.de/institute): 
   - PhD: 同北美 PhD 申请流程，比如三封推荐信。一般需要硕士学位，个别有直博或硕博连读名额（但是最近比较缺钱所以砍了一些名额，比如生化所），二者区别在于要不要在马普所挂靠的学校下面先读一个硕士（以及随之带来的申请材料问题，特指 APS），申请前请务必问清楚分所的负责人。
 - [Erasmus Mundus](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en)：
-  - 欧盟的硕士项目，在欧盟的两个或更多学校完成为期两年的授课硕士项目。英语。有学费（比下面两个少）但是可以申奖学金（cover 差旅费安家费旅游费等等）。注意这个项目会考虑国别的 Diversity 所以录取可能比较玄学，以及申请需要**两封推荐信**（前几个不要）。
+  - 欧盟的硕士计划，下面有很多个小项目，在欧盟的两个或更多学校完成为期两年的授课硕士项目。英语。有学费（比下面两个少）但是可以申奖学金（全奖的话能 cover 差旅费安家费旅游费等等）。注意这个项目会考虑国别的 diversity 所以录取可能比较玄学，以及申请需要**两封推荐信**（前几个不要）。要申请奖学金的话 DDL 比较早，按项目不同可能在十二月至三月。
 - TU Delft（乱入）:
   - [MSC Chemical Engineering](https://www.tudelft.nl/en/education/programmes/masters/chemical-engineering/msc-chemical-engineering/): 本来准备作备选的，结果一看，托福 100 且小分 22/雅思 7.0 且小分 6.5，学费 MSc 20560 €/年（2023/2024 学年），且荷兰工作大概率要学荷兰语，拒绝。不缺钱的可以考虑。DDL 在三月底。
 - [ETH Zürich](https://ethz.ch/en.html) & [EPFL](https://www.epfl.ch/en/)（乱入x2）:
@@ -88,13 +89,13 @@
 
 ### 申请系统
 
-德国学校的申请系统是只能从前填到尾的，有的材料只有填到最后才知道要不要，挺恶心的。好处是一般没有额外的申请费。
+德国学校的申请系统是只能从前填到尾的，有的材料只有填到最后才知道要不要，挺恶心的。好处是一般没有额外的申请费。举几个例子。
 
 - RWTH Aachen: 冬季学期 **DDL 3.1**，看起来非常早。但是划重点：**RWTH Aachen 申请的时候不需要提交外语成绩（德语/英语/Both）、APS 证书和 Motivation Letter**，注册时提交即可，其实非常友好。需要注意个别专业**申请时**需要 GRE，提前在官网查好。
 
 - TUM: 申请前需要在 [Uni-Assist](https://www.uni-assist.de/) 上弄 VPD 证明（需要 APS 证书），首个学校 **收费 75 €**。（这可能是唯一需要交申请费的地方）。冬季学期 **DDL 5.31**
 
-- KIT：对非欧盟申请者和欧盟一样，冬季学期 **DDL 7.15**，最晚的一批。缺点是巴符州对非欧盟申请人征收每学期 1500 € 的学费（同理 Uni Heidelberg、Uni Stuttgart也要），但是还是比一堆英语系国家便宜得多。
+- KIT：对非欧盟申请者和欧盟一样，冬季学期 **DDL 7.15**（正常德国申请的 DDL），最晚的一批。缺点是巴符州对非欧盟申请人征收 1500 €/学期 的学费（同理 Uni Heidelberg、Uni Stuttgart也要），但还是比一堆英语系国家便宜得多。
 
 ### 其他 Hint
 
@@ -102,7 +103,7 @@
 
 **ECTS**：欧盟的学分系统。哥廷根大学有一个学分换算表（pdf 放在文件夹里面了）。
 
-**申请费**：一般不接受银联卡。如果学生不好申请 Visa/Mastercard 的信用卡的话可以在 [这里](https://cloud.bankofchina.com/sh/api/net/common/url/adr?id=kuajinggomastercard) 申请中行的 Mastercard 借记卡应急一下（需要挂靠自己的中行卡，因为这张卡不能存人民币）
+**申请费**：不接受银联卡。如果学生不好申请 Visa/Mastercard 的信用卡的话可以在 [这里](https://cloud.bankofchina.com/sh/api/net/common/url/adr?id=kuajinggomastercard) 申请中行的 Mastercard 借记卡应急一下（需要挂靠自己的中行借记卡，因为这张卡不能存人民币，只能先购汇再存进去）。
 
 ## 签证
 
