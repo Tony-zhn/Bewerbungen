@@ -62,15 +62,15 @@
 和化学/材料比较沾边的英授项目（本人看过的，时间截止 23fall）：
 
 - TUM：
-  - [Materials Science and Engineering, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/materials-science-and-engineering-master-of-science-msc)：除了雅思/托福，中国申请人还需要 [GRE](https://www.tum.de/en/studies/application/application-info-portal/special-conditions-for-certain-countries/)（QR 157, AW 3.0）
-  - [Quantum Science and Technology, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/quantum-science-technology-master-of-science-msc/)：申请时要填一个课表清单（excel 我扔文件夹里了），需要在申请前满足匹配度（不用全学），其中量子力学必修。清单的课有基础物理学、量子力学、固体物理、物理实验、微积分&线性代数、无机与分析化学等。
+  - [Materials Science and Engineering, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/materials-science-and-engineering-master-of-science-msc)：除了雅思/托福，中国申请人还需要 [GRE](https://www.tum.de/en/studies/application/application-info-portal/special-conditions-for-certain-countries/)（QR 157, AW 3.0）。一堆数学课和材料模拟计算。
+  - [Quantum Science and Technology, M.Sc](https://www.ph.tum.de/academics/msc/qst/apply/?language=en)：申请时要填一个课表清单（excel 我扔文件夹里了），需要在申请前满足匹配度（57/120），其中量子力学必修。清单的课有基础物理学、量子力学、固体物理、物理实验、微积分&线性代数、无机与分析化学等。
   - [Biochemistry, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/biochemistry-master-of-science-msc): 适合化学生物学方向的申请。
 - LMU:
   - [Biochemistry, M.Sc](https://www.genzentrum.uni-muenchen.de/study-program/master/index.html): 同上。
 - RWTH Aachen：
   - [Materials Engineering (International Profile), M.Sc](https://www.rwth-aachen.de/cms/root/studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~omse/Materials-Engineering-M-Sc/)：课程偏重金属材料。注意的是对应的两个德授专业（材料科学，材料工程）在**申请时**需要提交 **TestAS 证书**，需要的尽量在大四前搞定（大陆只有大三及以下可以参加 TestAS 因为这个考试面向本科申请。实在没办法可以去香港或者国外考。）
 - TU Darmstadt：
-  - [Material Science, M.Sc](https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_183552.de.jsp)
+  - [Material Science, M.Sc](https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_183552.de.jsp): 材料科学更偏重实验室技术，比如纳米材料。
 - TU Berlin: 
   - [Polymer Science, M.Sc.](https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/polymer-science-m-sc): 注意这个是**受限专业**。
 - [Erasmus Mundus](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en)：
