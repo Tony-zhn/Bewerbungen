@@ -1,4 +1,4 @@
-# 德国申请记录（劝退专业向）
+# 德国申请记录（化学专业向）
 
 ## APS
 
@@ -29,7 +29,7 @@
 
 面谈全程约 20 min，记得礼貌问好+道别，毕竟是线下面试。
 
-面谈第二天收到了 gut 和电子 APS 证书。纸质证书过几天到，寄了十份（看起来不能补）。从 2022 年开始 APS 开始在推无纸化。
+面谈第二天收到了 gut 和电子 APS 证书。纸质证书过几天到，寄了十份（看起来不能补）。2022 年 APS 开始在推无纸化。
 
 在拿到毕业证和学位证后记得去 APS 补审。
 
@@ -64,6 +64,9 @@
 - TUM：
   - [Materials Science and Engineering, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/materials-science-and-engineering-master-of-science-msc)：除了雅思/托福，中国申请人还需要 [GRE](https://www.tum.de/en/studies/application/application-info-portal/special-conditions-for-certain-countries/)（QR 157, AW 3.0）
   - [Quantum Science and Technology, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/quantum-science-technology-master-of-science-msc/)：申请时要填一个课表清单（excel 我扔文件夹里了），需要在申请前满足匹配度（不用全学），其中量子力学必修。清单的课有基础物理学、量子力学、固体物理、物理实验、微积分&线性代数、无机与分析化学等。
+  - [Biochemistry, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/biochemistry-master-of-science-msc): 适合化学生物学方向的申请。
+- LMU:
+  - [Biochemistry, M.Sc](https://www.genzentrum.uni-muenchen.de/study-program/master/index.html): 同上。
 - RWTH Aachen：
   - [Materials Engineering (International Profile), M.Sc](https://www.rwth-aachen.de/cms/root/studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~omse/Materials-Engineering-M-Sc/)：课程偏重金属材料。注意的是对应的两个德授专业（材料科学，材料工程）在**申请时**需要提交 **TestAS 证书**，需要的尽量在大四前搞定（大陆只有大三及以下可以参加 TestAS 因为这个考试面向本科申请。实在没办法可以去香港或者国外考。）
 - TU Darmstadt：
@@ -79,6 +82,8 @@
 - [ETH Zürich](https://ethz.ch/en.html) & [EPFL](https://www.epfl.ch/en/)（乱入x2）:
   - 瑞士的 top 级学校，其中 EPFL 可以申直博。ddl 与北美 PhD 类似在上一年的 12 月左右。瑞士的开销比德国大。**有移民需求不推荐瑞士**，纯做学术+找教职可以。
 
+可以在一些[第三方系统](https://programs.studying-in-germany.org/master-degree/?language=english)上查英授的硕士项目。
+
 ### 申请系统
 
 德国学校的申请系统是只能从前填到尾的，有的材料只有填到最后才知道要不要，挺恶心的。好处是一般没有额外的申请费。
@@ -87,7 +92,7 @@
 
 - TUM: 申请前需要在 [Uni-Assist](https://www.uni-assist.de/) 上弄 VPD 证明（需要 APS 证书），首个学校 **收费 75 €**。（这可能是唯一需要交申请费的地方）。冬季学期 **DDL 5.31**
 
-- KIT：对非欧盟申请者和欧盟一样，冬季学期 **DDL 7.15**，最晚的一批。缺点是巴符州对非欧盟申请人征收每学期 1500 € 的学费（同理 Heidelberg Uni、Uni Stuttgart也要），但是还是比一堆英语系国家便宜得多。
+- KIT：对非欧盟申请者和欧盟一样，冬季学期 **DDL 7.15**，最晚的一批。缺点是巴符州对非欧盟申请人征收每学期 1500 € 的学费（同理 Uni Heidelberg、Uni Stuttgart也要），但是还是比一堆英语系国家便宜得多。
 
 ### 其他 Hint
 
