@@ -69,7 +69,7 @@
 - [Erasmus Mundus](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en)：
   - 欧盟的硕士项目，在欧盟的两个或更多学校完成为期两年的授课硕士项目。英语。有学费（比下面那个少）但是可以申奖学金（cover 差旅费安家费旅游费等等）。注意这个项目会考虑国别的 Diversity 所以录取可能比较玄学，以及申请需要**两封推荐信**（前几个不要）。
 - [Max-Planck Institute](https://www.mpg.de/institute): 
-  - PhD: 同北美 PhD 申请流程，比如三封推荐信。一般需要硕士学位，个别有直博名额（但是最近比较缺钱所以砍了一些直博名额，比如生化所），申请前请务必问清楚分所的负责人。
+  - PhD: 同北美 PhD 申请流程，比如三封推荐信。一般需要硕士学位，个别有直博或硕博连读名额（但是最近比较缺钱所以砍了一些名额，比如生化所），二者区别在于要不要在马普所挂靠的学校下面先读一个硕士（以及随之带来的申请材料问题，特指 APS），申请前请务必问清楚分所的负责人。
 - TU Delft（乱入）:
   - [MSC Chemical Engineering](https://www.tudelft.nl/en/education/programmes/masters/chemical-engineering/msc-chemical-engineering/): 本来准备作备选的，结果一看，托福 100 且小分 22/雅思 7.0 且小分 6.5，学费 MSc 20560 €/年（2023/2024 学年），且荷兰工作大概率要学荷兰语，拒绝。不缺钱的可以考虑。ddl 在三月底。
 - [ETH Zürich](https://ethz.ch/en.html) & [EPFL](https://www.epfl.ch/en/)（乱入x2）:
@@ -81,7 +81,7 @@
 
 - RWTH Aachen: 冬季学期 **DDL 3.1**，看起来非常早。但是划重点：**RWTH Aachen 申请的时候不需要提交外语成绩（德语/英语/Both）、APS 证书和 Motivation Letter**，注册时提交即可，其实非常友好。
 
-- TUM: 申请前需要在 [Uni-Assist](https://www.uni-assist.de/) 上弄 VPD 证明（需要 APS 证书），首个学校 **收费75€**。（这可能是唯一需要交申请费的地方）。冬季学期 **DDL 5.31**
+- TUM: 申请前需要在 [Uni-Assist](https://www.uni-assist.de/) 上弄 VPD 证明（需要 APS 证书），首个学校 **收费 75 €**。（这可能是唯一需要交申请费的地方）。冬季学期 **DDL 5.31**
 
 - KIT：对非欧盟申请者和欧盟一样，冬季学期 **DDL 7.15**，最晚的一批。缺点是巴符州对非欧盟申请人征收每学期 1500 € 的学费（同理 Heidelberg Uni、Uni Stuttgart也要，但是还是比一堆英语系国家便宜得多）。
 
@@ -98,7 +98,7 @@
 签证申请须知在德国驻华使领馆的 [长期居留](https://china.diplo.de/cn-zh/service/visa-einreise/nationales-visum/1345434) 可以找到。
 
 自保金又涨了！2023年是 11208 €，比三年前涨了 1000 €（万恶的通胀）。建议在欧元汇率比较便宜的时候多换点。以及，2023 年了，Deutsche Bank 已经不接受自保金开户了，现在只有网络中介
-[expatrio](https://www.expatrio.com/)、[fintiba](https://www.fintiba.com/) 和 [coracle](https://www.coracle.de/)。
+[expatrio](https://www.expatrio.com/)、[fintiba](https://www.fintiba.com/) 和 [coracle](https://www.coracle.de/) 可以选。
 
 ## 待续
 
