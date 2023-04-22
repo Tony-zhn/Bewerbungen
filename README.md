@@ -79,7 +79,7 @@
 - TU Berlin: 
   - [Polymer Science, M.Sc.](https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/polymer-science-m-sc): 注意这个是**受限专业**。
 - [Max-Planck Institute](https://www.mpg.de/institute): 
-  - PhD: 同北美 PhD 申请流程，比如三封推荐信。一般需要硕士学位，个别有直博或硕博连读名额（但是最近比较缺钱所以砍了一些名额，比如生化所），二者区别在于要不要在马普所挂靠的学校下面先读一个硕士（以及随之带来的申请材料问题，特指 APS），申请前请务必问清楚分所的负责人。
+  - 最新消息，马普所已经把直博的口子堵上了。。。目前是否有硕博连读的办法暂时不太清楚，有需要的详询各分所或者看看 [IMPRS](https://www.imprs-cms.mpg.de/)。
 - [Erasmus Mundus](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en)：
   - 欧盟的硕士计划，下面有很多个小项目，在欧盟的两个或更多学校完成为期两年的授课硕士项目。英语。有学费（比下面两个少）但是可以申奖学金（全奖的话能 cover 差旅费安家费旅游费等等）。注意这个项目会考虑国别的 diversity 所以录取可能比较玄学，以及申请需要**两封推荐信**（前几个不要）。要申请奖学金的话 DDL 比较早，按项目不同可能在十二月至三月。
 - TU Delft（乱入）:
