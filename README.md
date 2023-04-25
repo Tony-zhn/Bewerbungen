@@ -54,10 +54,10 @@
 
 ### 语言
 
-德国大多数专业是德语授课，国内能考的有 TestDaF 4x4 或者歌德 C1（TUM 好像要 C2）。TestDaF 是四个月一次需要注意时间，比如3月底那场申冬季学期刚刚好。
+德国大多数专业是德语授课，国内能考的有 TestDaF （需要4444） 或者歌德 C1（TUM 好像要 C2）。TestDaF 是四个月一次需要注意时间，比如3月底那场申冬季学期刚刚好。
 部分学校及英授专业需要英语成绩，最高雅思 6.5/托福 92（托福具体数忘了反正不过 100），不要求小分，**不能拼分或家考**。如果实在考不出来德语可以先用英授专业应个急，但是如果有工作或移民计划那德语是迟早要学的，而且当地生活至少也需要 A1 水平的德语。
 
-可以在一些 [第三方系统](https://programs.studying-in-germany.org/master-degree/?language=english) 上查英授的硕士项目。
+可以在一些学校官网（[TUM](https://www.tum.de/en/studies/degree-programs#languageProficiency=4), [LMU](https://www.lmu.de/en/study/all-degrees-and-programs/international-degree-programs/index.html#st_link_list__master), [Uni Heidelberg](https://www.uni-heidelberg.de/en/study/fields-of-study/master), [RWTH Aachen](https://www.rwth-aachen.de/go/id/csei/lidx/1) 等）或 [第三方系统](https://programs.studying-in-germany.org/master-degree/?language=english) 上查英授的硕士项目以及各硕士项目的录取要求（一般只能查到语言要求）。
 
 ### 部分项目
 
@@ -68,10 +68,9 @@
 - TUM：
   - [Materials Science and Engineering, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/materials-science-and-engineering-master-of-science-msc)：除了雅思/托福，中国申请人还需要 [GRE](https://www.tum.de/en/studies/application/application-info-portal/special-conditions-for-certain-countries/)（QR 157, AW 3.0）。课表主要是一堆数学课和材料模拟计算。
   - [Quantum Science and Technology, M.Sc](https://www.ph.tum.de/academics/msc/qst/apply/?language=en)：申请时要填一个课表清单（excel 我扔文件夹里了），需要在申请前满足匹配度（57/120 Credits），其中量子力学必修。清单的课有基础物理学、量子力学、固体物理、物理实验、微积分&线性代数、无机与分析化学等。
-  - [Biochemistry, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/biochemistry-master-of-science-msc): 适合化学生物学方向的申请。
-  - [Industrial Chemistry, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/industrial-chemistry-master-of-science-msc/): **在新加坡**，和 NUS 的合作项目。
+  - [Industrial Chemistry, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/industrial-chemistry-master-of-science-msc/): **在新加坡**（写这个的目的是避雷），和 NUS 的合作项目。TUM 在新加坡有校区。
 - LMU:
-  - [Biochemistry, M.Sc](https://www.genzentrum.uni-muenchen.de/study-program/master/index.html): 同上。
+  - [Biochemistry, M.Sc](https://www.genzentrum.uni-muenchen.de/study-program/master/index.html)::适合化学生物学方向的申请。
 - RWTH Aachen：
   - [Materials Engineering (International Profile), M.Sc](https://www.rwth-aachen.de/cms/root/studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~omse/Materials-Engineering-M-Sc/)：课程偏重金属材料。注意的是对应的两个德授专业（材料科学，材料工程）在**申请时**需要提交 **TestAS 证书**，需要的尽量在大四前搞定（大陆只有大三及以下可以参加 TestAS 因为这个考试面向本科申请。实在没办法可以去香港或者国外考。）
 - TU Darmstadt：
@@ -101,7 +100,7 @@
 
 **Modulhandbuch**：一般等同于国内的培养方案+课程说明，需要翻译认证（不用公证）。翻译的话可以自己翻译完后在某宝找公司花10块钱盖个章。**需要附课程说明**，在选课平台上有但是要每门课复制粘贴/手动翻译（有些翻译很垃圾）。
 
-**ECTS**：欧盟的学分系统。哥廷根大学有一个学分换算表（pdf 放在文件夹里面了）。
+**ECTS**：欧盟的学分系统。有一套详细的换算标准，如果懒得换算的话哥廷根大学有一个学分换算表（pdf 放在文件夹里面了）。
 
 **申请费**：不接受银联卡。如果学生不好申请 Visa/Mastercard 的信用卡的话可以在 [这里](https://cloud.bankofchina.com/sh/api/net/common/url/adr?id=kuajinggomastercard) 申请中行的 Mastercard 借记卡应急一下（需要挂靠自己的中行借记卡，因为这张卡不能存人民币，只能先购汇再存进去）。
 
