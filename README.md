@@ -2,7 +2,7 @@
 
 ## APS
 
-审核部官网 [在此](https://www.aps.org.cn/zh/)。只要涉及到人在德国读**硕士及以下**（**包括 Erasmus 和马普所的部分分所**，比如有的分所不招直博要先读硕士）都要 APS，不然使领馆不给你发签证。正常申请硕士的话走“[一般国内申请人审核程序](https://www.aps.org.cn/zh/verfahren-und-services-deutschland/chinaverfahren)”，要求六个学期的有效学分（**尽量不要挂科**，可能会影响学期数目的判定，虽然本人挂了一门概统还是给过了）。
+审核部官网 [在此](https://www.aps.org.cn/zh/)。只要涉及到人在德国读**硕士及以下**（**包括 Erasmus 和马普所**，马普所最近不招直博了）都要 APS，不然使领馆不给你发签证。正常申请硕士的话走“[一般国内申请人审核程序](https://www.aps.org.cn/zh/verfahren-und-services-deutschland/chinaverfahren)”，要求六个学期的有效学分（**尽量不要挂科**，可能会影响学期数目的判定，虽然本人挂了一门概统还是给过了）。
 
 对于没毕业的申请人，比较有(nan)趣(gao)的材料：小学&初中毕业证复印件、高中毕业证复印件+公证、录取花名册+公证、在读证明+公证（公证选英语或德语均可）
 
