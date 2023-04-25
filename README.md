@@ -66,13 +66,13 @@
 和化学/材料比较沾边的英授项目（本人看过的，时间截止 23fall）：
 
 - TUM：
-  - [Materials Science and Engineering, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/materials-science-and-engineering-master-of-science-msc)：除了雅思/托福，中国申请人还需要 [GRE](https://www.tum.de/en/studies/application/application-info-portal/special-conditions-for-certain-countries/)（QR 157, AW 3.0）。课表主要是一堆数学课和材料模拟计算。
+  - [Materials Science and Engineering, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/materials-science-and-engineering-master-of-science-msc)：除了雅思/托福，中国申请人还需要 [GRE](https://www.tum.de/en/studies/application/application-info-portal/special-conditions-for-certain-countries/)（QR 157, AW 3.0）。必修课有流体力学。
   - [Quantum Science and Technology, M.Sc](https://www.ph.tum.de/academics/msc/qst/apply/?language=en)：申请时要填一个课表清单（excel 我扔文件夹里了），需要在申请前满足匹配度（57/120 Credits），其中量子力学必修。清单的课有基础物理学、量子力学、固体物理、物理实验、微积分&线性代数、无机与分析化学等。
   - [Industrial Chemistry, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/industrial-chemistry-master-of-science-msc/): **在新加坡**（写这个的目的是避雷），和 NUS 的合作项目。TUM 在新加坡有校区。
 - LMU:
-  - [Biochemistry, M.Sc](https://www.genzentrum.uni-muenchen.de/study-program/master/index.html)::适合化学生物学方向的申请。
+  - [Biochemistry, M.Sc](https://www.genzentrum.uni-muenchen.de/study-program/master/index.html): 适合化学生物学方向的申请。
 - RWTH Aachen：
-  - [Materials Engineering (International Profile), M.Sc](https://www.rwth-aachen.de/cms/root/studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~omse/Materials-Engineering-M-Sc/)：课程偏重金属材料。注意的是对应的两个德授专业（材料科学，材料工程）在**申请时**需要提交 **TestAS 证书**，需要的尽量在大四前搞定（大陆只有大三及以下可以参加 TestAS 因为这个考试面向本科申请。实在没办法可以去香港或者国外考。）
+  - [Materials Engineering (International Profile), M.Sc](https://www.rwth-aachen.de/cms/root/studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~omse/Materials-Engineering-M-Sc/)：课程偏重金属材料。注意的是对应的两个德授专业（材料科学，材料工程）在**申请时**需要提交 **TestAS 证书**，需要的尽量在大四前搞定（大陆只有大三及以下可以参加 TestAS 因为这个考试面向本科申请。实在没办法可以去香港或者国外考）
 - TU Darmstadt：
   - [Material Science, M.Sc](https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_183552.de.jsp): 材料科学更偏重实验室技术，比如纳米材料。
 - TU Berlin: 
@@ -105,6 +105,8 @@
 **申请费**：不接受银联卡。如果学生不好申请 Visa/Mastercard 的信用卡的话可以在 [这里](https://cloud.bankofchina.com/sh/api/net/common/url/adr?id=kuajinggomastercard) 申请中行的 Mastercard 借记卡应急一下（需要挂靠自己的中行借记卡，因为这张卡不能存人民币，只能先购汇再存进去）。
 
 ## 签证
+
+相比美签没有被check的问题，只是周期略长，建议预留至少两个月。
 
 签证申请须知在德国驻华使领馆的 [长期居留](https://china.diplo.de/cn-zh/service/visa-einreise/nationales-visum/1345434) 可以找到。
 
