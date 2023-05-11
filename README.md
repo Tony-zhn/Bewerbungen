@@ -1,4 +1,4 @@
-# 德国申请记录（化学专业向）
+# 德国申请记录（化学/材料专业向）
 
 ## APS
 
@@ -74,11 +74,13 @@
 - RWTH Aachen：
   - [Materials Engineering (International Profile), M.Sc](https://www.rwth-aachen.de/cms/root/studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~omse/Materials-Engineering-M-Sc/)：课程偏重金属材料。注意的是对应的两个德授专业（材料科学，材料工程）在**申请时**需要提交 **TestAS 证书**，需要的尽量在大四前搞定（大陆只有大三及以下可以参加 TestAS 因为这个考试面向本科申请。实在没办法可以去香港或者国外考）
 - TU Darmstadt：
-  - [Material Science, M.Sc](https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_183552.de.jsp): 材料科学更偏重实验室技术，比如纳米材料。
+  - [Material Science, M.Sc](https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_183552.de.jsp): 材料科学更偏重实验室技术，比如纳米材料。与材料工程相比课程偏重化学。
+- Uni Stuttgart:
+  - [Materials Science, M.Sc](https://www.uni-stuttgart.de/en/study/study-programs/Materials-Science-M.Sc.-00001/): 同上，也是偏重实验室技能，官方表示 "Approximately **half** of all Masters of Science in Materials Science students earn their PhD and thereby specialize themselves in academic working techniques"。注意 Stuttgart 在巴符州。
 - TU Berlin: 
   - [Polymer Science, M.Sc.](https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/polymer-science-m-sc): 注意这个是**受限专业**。
 - [Max-Planck Institute](https://www.mpg.de/institute): 
-  - 最新消息，马普所已经把直博的口子堵上了。。。目前是否有硕博连读的办法暂时不太清楚，有需要的详询各分所或者看看 [IMPRS](https://www.imprs-cms.mpg.de/)。
+  - 最新消息，马普所已经把直博的口子堵上了。。。目前是否有硕博连读的办法本人不清楚，有需要的详询各分所或者看看 [IMPRS](https://www.imprs-cms.mpg.de/)。
 - [Erasmus Mundus](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en)：
   - 欧盟的硕士计划，下面有很多个小项目，在欧盟的两个或更多学校完成为期两年的授课硕士项目。英语。有学费（比下面两个少）但是可以申奖学金（全奖的话能 cover 差旅费安家费旅游费等等）。注意这个项目会考虑国别的 diversity 所以录取可能比较玄学，以及申请需要**两封推荐信**（前几个不要）。要申请奖学金的话 DDL 比较早，按项目不同可能在十二月至三月。
 - TU Delft（乱入）:
