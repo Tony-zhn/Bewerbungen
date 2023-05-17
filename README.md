@@ -43,18 +43,18 @@
 - 出生证明公证（签证、永居、移民可能需要，建议多办几份）
 - 毕业证、学位证（同上）。
 
-需要出示的公证材料：
+公证时需要出示材料：
 
 - 通用的材料：各种待公证件的原件，**本人身份证原件**，**本人户口本/集体户口户口页原件**，户口本/**集体户口首页复印件**（学校开的需要盖章）
 - 出生证明公证：还需要**父母身份证+户口本原件&复印件**、**父母结婚证原件（已离婚还要离婚证原件）&复印件**。由于各国对出生公证/出生证明公证要求不一样，办的时候记得跟公证处说要去哪个国家。注意**出生证明**（绿色的那张纸，在某个年限以前出生的人没有可以不要）需要检查是否有效，本人的出生证明没有姓名，所以去派出所补办了一份（所需材料同上，但不用本人户口页，如果旧户口本有的话）。理论上出生证明公证的有效期是永久（一个人只能出生一次），但是实际使用时需要双认证所以有有效期。
 
-申请 APS 的公证材料不需要做双认证，但是在德国用的一般需要。
+申请 APS 的公证材料不需要做双认证，但是在德国用的一般需要。双认证有有效期，过期了要重新做认证。
 
 ## 申请
 
 ### 语言
 
-德国大多数专业是德语授课，国内能考的有 TestDaF （需要4444） 或者歌德 C1（TUM 好像要 C2）。TestDaF 是四个月一次需要注意时间，比如3月底那场申冬季学期刚刚好。
+德国大多数专业是德语授课，国内能考的有 TestDaF （需要 4444） 或者歌德 C1（TUM 好像要 C2）。TestDaF 是四个月一次需要注意时间，比如3月底那场申冬季学期刚刚好。
 部分学校及英授专业需要英语成绩，最高雅思 6.5/托福 92（托福具体数忘了反正不过 100），不要求小分，**不能拼分或家考**。如果实在考不出来德语可以先用英授专业应个急，但是如果有工作或移民计划那德语是迟早要学的，而且当地生活至少也需要 A1 水平的德语。
 
 可以在一些学校官网（[TUM](https://www.tum.de/en/studies/degree-programs#languageProficiency=4), [LMU](https://www.lmu.de/en/study/all-degrees-and-programs/international-degree-programs/index.html#st_link_list__master), [Uni Heidelberg](https://www.uni-heidelberg.de/en/study/fields-of-study/master), [RWTH Aachen](https://www.rwth-aachen.de/go/id/csei/lidx/1) 等）或 [第三方系统](https://programs.studying-in-germany.org/master-degree/?language=english) 上查英授的硕士项目以及各硕士项目的录取要求（一般只能查到语言要求）。
@@ -63,10 +63,10 @@
 
 申请要求课程匹配度，所以主修专业跨度不能太大，否则只能本科重新读。
 
-和化学/材料比较沾边的英授项目（本人看过的，时间截止 23fall）：
+和化学/材料比较沾边的英授 master 项目（本人看过的，时间截止 23WS）：
 
 - TUM：
-  - [Materials Science and Engineering, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/materials-science-and-engineering-master-of-science-msc)：除了雅思/托福，中国申请人还需要 [GRE](https://www.tum.de/en/studies/application/application-info-portal/special-conditions-for-certain-countries/)（QR 157, AW 3.0）。必修课有流体力学。
+  - [Materials Science and Engineering, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/materials-science-and-engineering-master-of-science-msc)：除了雅思/托福，本专业的中国申请人还需要 [GRE](https://www.tum.de/en/studies/application/application-info-portal/special-conditions-for-certain-countries/)（QR 157, AW 3.0）。必修课有流体力学。
   - [Quantum Science and Technology, M.Sc](https://www.ph.tum.de/academics/msc/qst/apply/?language=en)：申请时要填一个课表清单（excel 我扔文件夹里了），需要在申请前满足匹配度（57/120 Credits），其中量子力学必修。清单的课有基础物理学、量子力学、固体物理、物理实验、微积分&线性代数、无机与分析化学等。
   - [Industrial Chemistry, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/industrial-chemistry-master-of-science-msc/): **在新加坡**（写这个的目的是避雷），和 NUS 的合作项目。TUM 在新加坡有校区。
 - LMU:
@@ -95,6 +95,7 @@
 - RWTH Aachen: 冬季学期 **DDL 3.1**，看起来非常早。但是划重点：**RWTH Aachen 申请的时候不需要提交外语成绩（德语/英语/Both）、APS 证书和 Motivation Letter**，注册时提交即可，其实非常友好。需要注意个别专业**申请时**需要 GRE，提前在官网查好。
 
 - TUM: 申请前需要在 [Uni-Assist](https://www.uni-assist.de/) 上弄 VPD 证明（需要 APS 证书），首个学校 **收费 75 €**。（这可能是唯一需要交申请费的地方）。冬季学期 **DDL 5.31**
+  - Update: **从 24SS 入学的开始 TUM 要对国际学生收学费了！** 预计本科生 2000+ € /研究生 3000+ € 每学期（比巴符州高），想去的需要谨慎。
 
 - KIT：对非欧盟申请者和欧盟一样，冬季学期 **DDL 7.15**（正常德国申请的 DDL），最晚的一批。缺点是巴符州对非欧盟申请人征收 1500 €/学期 的学费（同理 Uni Heidelberg、Uni Stuttgart也要），但还是比一堆英语系国家便宜得多。
 
@@ -108,7 +109,7 @@
 
 ## 签证
 
-相比美签没有被check的问题，只是周期略长，建议预留至少两个月。
+相比美签没有被 check 的问题，只是周期略长，建议预留至少两个月。
 
 签证申请须知在德国驻华使领馆的 [长期居留](https://china.diplo.de/cn-zh/service/visa-einreise/nationales-visum/1345434) 可以找到。
 
