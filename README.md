@@ -2,14 +2,14 @@
 
 ## APS
 
-审核部官网 [在此](https://www.aps.org.cn/zh/)。只要涉及到人在德国读**硕士及以下**（**包括 Erasmus 和马普所**，马普所最近不招直博了）都要 APS，不然使领馆不给你发签证。正常申请硕士的话走“[一般国内申请人审核程序](https://www.aps.org.cn/zh/verfahren-und-services-deutschland/chinaverfahren)”，要求六个学期的有效学分（**尽量不要挂科**，可能会影响学期数目的判定，虽然本人挂了一门概统还是给过了）。
+审核部官网 [在此](https://www.aps.org.cn/zh/)。只要涉及到人在德国读**硕士及以下**（**包括 Erasmus 和马普所的非直博**）都要 APS，不然使领馆不给你发签证。正常申请硕士的话走“[一般国内申请人审核程序](https://www.aps.org.cn/zh/verfahren-und-services-deutschland/chinaverfahren)”，要求六个学期的有效学分（**尽量不要挂科**，可能会影响学期数目的判定，虽然本人挂了一门概统还是给过了）。
 
 对于没毕业的申请人，比较有(nan)趣(gao)的材料：小学&初中毕业证复印件、高中毕业证复印件+公证、录取花名册+公证、在读证明+公证（公证选英语或德语均可）
 
 - 大学前的各种毕业证尽量保存好。丢了得回学校补办。
 - 录取花名册拿学生证去招办（有些学校在档案馆）开，招办在二校门西边小老虎那里，进门跟前台说要打印花名册（要带学生卡）。
 - 在读证明**务必看清年级**，大四秋季学期开学前那个暑假打印的会显示大三。
-- 成绩单在 C 楼一楼注册那里打印中文英文各一份，上楼找注册中心封袋贴标签即可。不用盖章（标签上有章，有的学校需要另盖章）。
+- 成绩单在 C 楼一楼注册那里打印中文英文各一份，上楼找注册中心封袋贴标签即可。不用盖章（标签上有章。有的学校需要另盖章）。
 - 各种公证书最好至少办两份（一般公证处半年内可以补第二份，按补办收费）
 
 本人 10.3 邮寄材料（注意不能前台直接交，去前台会被轰出来，只有在楼下顺丰寄）
@@ -55,7 +55,7 @@
 ### 语言
 
 德国大多数专业是德语授课，国内能考的有 TestDaF （需要 4444） 或者歌德 C1（TUM 好像要 C2）。TestDaF 是四个月一次需要注意时间，比如3月底那场申冬季学期刚刚好。
-部分学校及英授专业需要英语成绩，最高雅思 6.5/托福 92（托福具体数忘了反正不过 100），不要求小分，**不能拼分或家考**。如果实在考不出来德语可以先用英授专业应个急，但是如果有工作或移民计划那德语是迟早要学的，而且当地生活至少也需要 A1 水平的德语。
+部分学校及英授专业需要英语成绩，最高雅思 6.5/托福 92（托福具体数忘了反正不过 100），一般不要求小分（KIT 好像要），**不能拼分或家考**。如果实在考不出来德语可以先用英授专业应个急，但是如果有工作或移民计划那德语是迟早要学的，而且当地生活至少也需要 A1 水平的德语。
 
 可以在一些学校官网（[TUM](https://www.tum.de/en/studies/degree-programs#languageProficiency=4), [LMU](https://www.lmu.de/en/study/all-degrees-and-programs/international-degree-programs/index.html#st_link_list__master), [Uni Heidelberg](https://www.uni-heidelberg.de/en/study/fields-of-study/master), [RWTH Aachen](https://www.rwth-aachen.de/go/id/csei/lidx/1) 等）或 [第三方系统](https://programs.studying-in-germany.org/master-degree/?language=english) 上查英授的硕士项目以及各硕士项目的录取要求（一般只能查到语言要求）。
 
@@ -63,12 +63,12 @@
 
 申请要求课程匹配度，所以主修专业跨度不能太大，否则只能本科重新读。
 
-和化学/材料比较沾边的英授 master 项目（本人看过的，时间截止 23WS）：
+和化学/材料比较沾边的英授 master 项目（本人看过的，时间为 23WS）：
 
 - TUM：
   - [Materials Science and Engineering, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/materials-science-and-engineering-master-of-science-msc)：除了雅思/托福，本专业的中国申请人还需要 [GRE](https://www.tum.de/en/studies/application/application-info-portal/special-conditions-for-certain-countries/)（QR 157, AW 3.0）。必修课有流体力学。
   - [Quantum Science and Technology, M.Sc](https://www.ph.tum.de/academics/msc/qst/apply/?language=en)：申请时要填一个课表清单（excel 我扔文件夹里了），需要在申请前满足匹配度（57/120 Credits），其中量子力学必修。清单的课有基础物理学、量子力学、固体物理、物理实验、微积分&线性代数、无机与分析化学等。
-  - [Industrial Chemistry, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/industrial-chemistry-master-of-science-msc/): **在新加坡**（写这个的目的是避雷），和 NUS 的合作项目。TUM 在新加坡有校区。
+  - [Industrial Chemistry, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/industrial-chemistry-master-of-science-msc/): **在新加坡**（避雷），和 NUS 的合作项目。TUM 在新加坡有校区。
 - LMU:
   - [Biochemistry, M.Sc](https://www.genzentrum.uni-muenchen.de/study-program/master/index.html): 适合化学生物学方向的申请。
 - RWTH Aachen：
@@ -76,11 +76,11 @@
 - TU Darmstadt：
   - [Material Science, M.Sc](https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_183552.de.jsp): 材料科学更偏重实验室技术，比如纳米材料。与材料工程相比课程偏重化学。
 - Uni Stuttgart:
-  - [Materials Science, M.Sc](https://www.uni-stuttgart.de/en/study/study-programs/Materials-Science-M.Sc.-00001/): 同上，也是偏重实验室技能，官方表示 "Approximately **half** of all Masters of Science in Materials Science students earn their PhD and thereby specialize themselves in academic working techniques"。注意 Stuttgart 在巴符州。
+  - [Materials Science, M.Sc](https://www.uni-stuttgart.de/en/study/study-programs/Materials-Science-M.Sc.-00001/): 同上，也是偏科研向，官方表示 "Approximately **half** of all Masters of Science in Materials Science students earn their PhD and thereby specialize themselves in academic working techniques"。注意 Stuttgart 在巴符州。
 - TU Berlin: 
   - [Polymer Science, M.Sc.](https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/polymer-science-m-sc): 注意这个是**受限专业**。
 - [Max-Planck Institute](https://www.mpg.de/institute): 
-  - 最新消息，马普所已经把直博的口子堵上了。。。目前是否有硕博连读的办法本人不清楚，有需要的详询各分所或者看看 [IMPRS](https://www.imprs-cms.mpg.de/)。
+  - Update: 马普所已经把直博的口子堵上了（已知有材料所和生化所）目前是否有硕博连读的办法不详，有需要的详询各分所或者看看 [IMPRS](https://www.imprs-cms.mpg.de/)。
 - [Erasmus Mundus](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en)：
   - 欧盟的硕士计划，下面有很多个小项目，在欧盟的两个或更多学校完成为期两年的授课硕士项目。英语。有学费（比下面两个少）但是可以申奖学金（全奖的话能 cover 差旅费安家费旅游费等等）。注意这个项目会考虑国别的 diversity 所以录取可能比较玄学，以及申请需要**两封推荐信**（前几个不要）。要申请奖学金的话 DDL 比较早，按项目不同可能在十二月至三月。
 - TU Delft（乱入）:
@@ -90,14 +90,15 @@
 
 ### 申请系统
 
-德国学校的申请系统是只能从前填到尾的，有的材料只有填到最后才知道要不要，挺恶心的。好处是一般没有额外的申请费。举几个例子。
+德国学校的申请系统一般是只能从头填到尾的，有的材料只有填到最后才知道要不要，挺恶心人的。好处是一般没有额外的申请费。举几个例子。
 
 - RWTH Aachen: 冬季学期 **DDL 3.1**，看起来非常早。但是划重点：**RWTH Aachen 申请的时候不需要提交外语成绩（德语/英语/Both）、APS 证书和 Motivation Letter**，注册时提交即可，其实非常友好。需要注意个别专业**申请时**需要 GRE，提前在官网查好。
 
 - TUM: 申请前需要在 [Uni-Assist](https://www.uni-assist.de/) 上弄 VPD 证明（需要 APS 证书），首个学校 **收费 75 €**。（这可能是唯一需要交申请费的地方）。冬季学期 **DDL 5.31**
-  - Update: **从 24SS 入学的开始 TUM 要对国际学生收学费了！** 预计本科生 2000+ € /研究生 3000+ € 每学期（比巴符州高），想去的需要谨慎。
+  - Update: **从 24SS 入学的开始 TUM 要对国际学生收学费了！** 预计本科生 2000-4000 € /研究生 3000-6000 € 每学期（比巴符州高），想去的需要谨慎。
 
 - KIT：对非欧盟申请者和欧盟一样，冬季学期 **DDL 7.15**（正常德国申请的 DDL），最晚的一批。缺点是巴符州对非欧盟申请人征收 1500 €/学期 的学费（同理 Uni Heidelberg、Uni Stuttgart也要），但还是比一堆英语系国家便宜得多。
+  -  Update: 传闻巴符州要取消学费，真实度未知。
 
 ### 其他 Hint
 
@@ -105,16 +106,30 @@
 
 **ECTS**：欧盟的学分系统。有一套详细的换算标准，如果懒得换算的话哥廷根大学有一个学分换算表（pdf 放在文件夹里面了）。
 
-**申请费**：不接受银联卡。如果学生不好申请 Visa/Mastercard 的信用卡的话可以在 [这里](https://cloud.bankofchina.com/sh/api/net/common/url/adr?id=kuajinggomastercard) 申请中行的 Mastercard 借记卡应急一下（需要挂靠自己的中行借记卡，因为这张卡不能存人民币，只能先购汇再存进去）。
+**申请费**：Uni-Assist 不接受银联卡。如果学生不好申请 Visa/Mastercard 的信用卡的话可以在 [这里](https://cloud.bankofchina.com/sh/api/net/common/url/adr?id=kuajinggomastercard) 申请中行的 Mastercard 借记卡应急一下（需要挂靠自己的中行借记卡，因为这张卡不能存人民币，只能先购汇再存进去）。
 
 ## 签证
 
-相比美签没有被 check 的问题，只是周期略长，建议预留至少两个月。
+相比美签没有被 check 的问题，只是周期略长，建议预留至少两个月。本人 23.5.18 排了北京 A 类（排队中）。
 
-签证申请须知在德国驻华使领馆的 [长期居留](https://china.diplo.de/cn-zh/service/visa-einreise/nationales-visum/1345434) 可以找到。
+签证申请须知在德国驻华使领馆的 [长期居留](https://china.diplo.de/cn-zh/service/visa-einreise/nationales-visum/1345434) 可以找到。德国签证严格划分领区（主要影响广州、沈阳、成都领区，但是这几个好像也不怎么排队）。
 
-自保金又涨了！2023年是 11208 €，比三年前涨了 1000 €（万恶的通胀）。建议在欧元汇率比较便宜的时候多换点。以及，2023 年了，Deutsche Bank 已经不接受自保金开户了，现在只有网络中介
-[expatrio](https://www.expatrio.com/)、[fintiba](https://www.fintiba.com/) 和 [coracle](https://www.coracle.de/) 可以选。
+### 自保金
+
+资金证明。如果没有在德工资或奖学金，自保金是几乎唯一可用的资金证明方式。本质是预存款，每个月会返给你。（但是每年延签都要自保金）
+
+自保金又涨了！2023年学生是 11208 €/年，比三年前涨了 1000 €（万恶的通胀）。建议在欧元汇率比较便宜的时候多换点。以及，2023 年了，Deutsche Bank 已经不接受自保金开户了，现在只有网络中介
+[expatrio](https://www.expatrio.com/)、[fintiba](https://www.fintiba.com/) 和 [coracle](https://www.coracle.de/) 可以选。因为前两个广告打太多了所以本人选的第三个。
+
+谨记：在办自保金的时候**只用选 Basic 套餐**。高级的套餐送保险，但是送的保险不能随便退可能会变得很麻烦。到德国后办完德国的银行卡就可以把自保金提出来。
+
+### 医保
+
+德国的医保分三种：Public health insurance（公立保险），Private health insurance（私人保险），Expat health insurance（外籍人士健康保险，一般旅游用）。申请学签需要两个保险：Public health insurance 和 Expat health insurance。
+
+学生（一般不含 PhD ）需要强制办理公立保险，并凭公保证明办理入学手续。学生的公保大约 110€/月，常见公司有 [TK](https://www.tk.de/en)、[DAK](https://www.dak.de/dak/health-insurance-in-germany--dak-gesundheit-2388864.html#/)、[Barmer](https://www.barmer.de/en) 等，一般任选其一，不满意的话过一年之后可以换。此处本人不做推荐。
+
+德国规定在德国的每一天都需要保险，但是有一个 Bug：公保的生效日期必须是注册入学的日期（4.1/10.1），在入境至入学这段时间需要另一份保险。Expat health insurance 即可。此处不做推荐，建议用英语或德语搜索（中文搜出来的基本是中介或者自保金公司）。
 
 ## 待续
 
