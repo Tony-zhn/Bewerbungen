@@ -76,13 +76,13 @@
 - TU Darmstadt：
   - [Material Science, M.Sc](https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_183552.de.jsp): 材料科学更偏重实验室技术，比如纳米材料。与材料工程相比课程偏重化学。
 - Uni Stuttgart:
-  - [Materials Science, M.Sc](https://www.uni-stuttgart.de/en/study/study-programs/Materials-Science-M.Sc.-00001/): 同上，也是偏科研向，官方表示 "Approximately **half** of all Masters of Science in Materials Science students earn their PhD and thereby specialize themselves in academic working techniques"。注意 Stuttgart 在巴符州。
+  - [Materials Science, M.Sc](https://www.uni-stuttgart.de/en/study/study-programs/Materials-Science-M.Sc.-00001/): 同 TU Darmstadt，也是偏科研向，官方表示 "Approximately **half** of all Masters of Science in Materials Science students earn their PhD and thereby specialize themselves in academic working techniques"。注意 Stuttgart 在巴符州。
 - TU Berlin: 
   - [Polymer Science, M.Sc.](https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/polymer-science-m-sc): 注意这个是**受限专业**。
 - [Max-Planck Institute](https://www.mpg.de/institute): 
   - Update: 马普所已经把直博的口子堵上了（已知有材料所和生化所）目前是否有硕博连读的办法不详，有需要的详询各分所或者看看 [IMPRS](https://www.imprs-cms.mpg.de/)。
 - [Erasmus Mundus](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en)：
-  - 欧盟的硕士计划，下面有很多个小项目，在欧盟的两个或更多学校完成为期两年的授课硕士项目。英语。有学费（比下面两个少）但是可以申奖学金（全奖的话能 cover 差旅费安家费旅游费等等）。注意这个项目会考虑国别的 diversity 所以录取可能比较玄学，以及申请需要**两封推荐信**（前几个不要）。要申请奖学金的话 DDL 比较早，按项目不同可能在十二月至三月。
+  - 欧盟的硕士计划，下面有很多个小项目，在欧盟的两个或更多学校完成为期两年的授课硕士项目。英语。有学费（参考大约 10000 €/年 的量级）但是可以申奖学金（全奖的话能 cover 差旅费安家费旅游费等等）。注意这个项目会考虑国别的 diversity 所以录取可能比较玄学，以及申请需要**两封推荐信**（前几个不要）。要申请奖学金的话 DDL 比较早，按项目不同可能在十二月至三月。
 - TU Delft（乱入）:
   - [MSC Chemical Engineering](https://www.tudelft.nl/en/education/programmes/masters/chemical-engineering/msc-chemical-engineering/): 本来准备作备选的，结果一看，托福 100 且小分 22/雅思 7.0 且小分 6.5，学费 MSc 20560 €/年（2023/2024 学年），且荷兰工作大概率要学荷兰语，拒绝。不缺钱的可以考虑。DDL 在三月底。
 - [ETH Zürich](https://ethz.ch/en.html) & [EPFL](https://www.epfl.ch/en/)（乱入x2）:
@@ -92,7 +92,7 @@
 
 德国学校的申请系统一般是只能从头填到尾的，有的材料只有填到最后才知道要不要，挺恶心人的。好处是一般没有额外的申请费。举几个例子。
 
-- RWTH Aachen: 冬季学期 **DDL 3.1**，看起来非常早。但是划重点：**RWTH Aachen 申请的时候不需要提交外语成绩（德语/英语/Both）、APS 证书和 Motivation Letter**，注册时提交即可，其实非常友好。需要注意个别专业**申请时**需要 GRE，提前在官网查好。
+- RWTH Aachen: 非 NC 专业冬季学期 **DDL 3.1**，看起来非常早。但是划重点：**RWTH Aachen 申请的时候一般不需要提交外语成绩（德语/英语/Both）、APS 证书和 Motivation Letter**，注册时提交即可，其实非常友好。需要注意个别专业**申请时**需要 GRE 或 TestAS，提前在官网查好。
 
 - TUM: 申请前需要在 [Uni-Assist](https://www.uni-assist.de/) 上弄 VPD 证明（需要 APS 证书），首个学校 **收费 75 €**。（这可能是唯一需要交申请费的地方）。冬季学期 **DDL 5.31**
   - Update: **从 24SS 入学的开始 TUM 要对国际学生收学费了！** 预计本科生 2000-4000 € /研究生 3000-6000 € 每学期（比巴符州高），想去的需要谨慎。
@@ -110,7 +110,7 @@
 
 ## 签证
 
-相比美签没有被 check 的问题，只是周期略长，建议预留至少两个月。本人 23.5.18 排了北京 A 类（排队中）。
+相比美签没有被 check 的问题，只是周期长（材料要寄到德国去），建议出发前预留至少三个月。时间参考：本人 23.5.18 排了北京 A 类，通知 23.6.12 面签。（五月至九月为签证高峰期）
 
 签证申请须知在德国驻华使领馆的 [长期居留](https://china.diplo.de/cn-zh/service/visa-einreise/nationales-visum/1345434) 可以找到。德国签证严格划分领区（主要影响广州、沈阳、成都领区，但是这几个好像也不怎么排队）。
 
@@ -127,7 +127,7 @@
 
 德国的医保分三种：Public health insurance（公立保险），Private health insurance（私人保险），Expat health insurance（外籍人士健康保险，一般旅游用）。申请学签需要两个保险：Public health insurance 和 Expat health insurance。
 
-学生（一般不含 PhD ）需要强制办理公立保险，并凭公保证明办理入学手续。学生的公保大约 110€/月，常见公司有 [TK](https://www.tk.de/en)、[DAK](https://www.dak.de/dak/health-insurance-in-germany--dak-gesundheit-2388864.html#/)、[Barmer](https://www.barmer.de/en) 等，一般任选其一，不满意的话过一年之后可以换。此处本人不做推荐。
+学生（一般不含 PhD ）需要强制办理公立保险，并凭公保证明办理入学手续。学生的公保大约 110 €/月，常见公司有 [TK](https://www.tk.de/en)、[DAK](https://www.dak.de/dak/health-insurance-in-germany--dak-gesundheit-2388864.html#/)、[Barmer](https://www.barmer.de/en) 等，一般任选其一，不满意的话过一年之后可以换。此处本人不做推荐。
 
 德国规定在德国的每一天都需要保险，但是有一个 Bug：公保的生效日期必须是注册入学的日期（4.1/10.1），在入境至入学这段时间需要另一份保险。Expat health insurance 即可。此处不做推荐，建议用英语或德语搜索（中文搜出来的基本是中介或者自保金公司）。
 
