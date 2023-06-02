@@ -62,11 +62,12 @@
 ### 部分项目
 
 申请要求课程匹配度，所以主修专业跨度不能太大，否则只能本科重新读。
+本人申请的项目有 RWTH Aachen, Materials Engineering (International Profile) (Zu); TUM, Materials Science and Engineering (Ab，匹配度挂了)
 
 和化学/材料比较沾边的英授 master 项目（本人看过的，时间为 23WS）：
 
 - TUM：
-  - [Materials Science and Engineering, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/materials-science-and-engineering-master-of-science-msc)：除了雅思/托福，本专业的中国申请人还需要 [GRE](https://www.tum.de/en/studies/application/application-info-portal/special-conditions-for-certain-countries/)（QR 157, AW 3.0）。必修课有流体力学。
+  - [Materials Science and Engineering, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/materials-science-and-engineering-master-of-science-msc)：除了雅思/托福，本专业的中国申请人还需要 [GRE](https://www.tum.de/en/studies/application/application-info-portal/special-conditions-for-certain-countries/)（QR 157, AW 3.0）。必修课有流体力学。TUM 的材料在机械学院所以匹配度容易挂。
   - [Quantum Science and Technology, M.Sc](https://www.ph.tum.de/academics/msc/qst/apply/?language=en)：申请时要填一个课表清单（excel 我扔文件夹里了），需要在申请前满足匹配度（57/120 Credits），其中量子力学必修。清单的课有基础物理学、量子力学、固体物理、物理实验、微积分&线性代数、无机与分析化学等。
   - [Industrial Chemistry, M.Sc](https://www.tum.de/en/studies/degree-programs/detail/industrial-chemistry-master-of-science-msc/): **在新加坡**（避雷），和 NUS 的合作项目。TUM 在新加坡有校区。
 - LMU:
